@@ -25,6 +25,6 @@ and install the software.
 ```
 3. With your server running, visit the site: `http://localhost:8000`
 
-##Contributions
+## Contributions
 
 As this project is part of Front-End Nanodegree Program no contribution will be accepted.
